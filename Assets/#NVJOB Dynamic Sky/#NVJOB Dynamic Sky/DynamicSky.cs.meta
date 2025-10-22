@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a5be6d6d883d420394021b3c25917f9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/#NVJOB Dynamic Sky/DynamicSky.cs
+  uploadId: 375181

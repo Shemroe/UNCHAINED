@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7138ef44dff74898a90043959f3e459f
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader
+  uploadId: 375181

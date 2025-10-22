@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d099e4c717f24fda89db56acbada6b6d
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader
+  uploadId: 375181

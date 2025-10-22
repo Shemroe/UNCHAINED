@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 8b43ee8485344df7a0c71bfa715acfff
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader
+  uploadId: 375181

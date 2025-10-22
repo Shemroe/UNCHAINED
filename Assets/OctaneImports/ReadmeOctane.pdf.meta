@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02c6d0d6deaf5694889bee292773bf91
+timeCreated: 1513175857
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 96589
+  packageName: Emissive Materials Demo with OctaneRender for Unity
+  packageVersion: 1.1
+  assetPath: Assets/OctaneImports/ReadmeOctane.pdf
+  uploadId: 316592

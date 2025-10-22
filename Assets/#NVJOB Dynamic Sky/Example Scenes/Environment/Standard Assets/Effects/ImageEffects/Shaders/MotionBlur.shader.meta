@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 92a1e64d9ae34856b74fd2d55b0c5746
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader
+  uploadId: 375181

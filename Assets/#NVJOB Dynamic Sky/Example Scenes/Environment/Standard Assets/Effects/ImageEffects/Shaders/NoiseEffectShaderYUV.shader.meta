@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 377b46f272e9496eb42ee55fb2b48757
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader
+  uploadId: 375181

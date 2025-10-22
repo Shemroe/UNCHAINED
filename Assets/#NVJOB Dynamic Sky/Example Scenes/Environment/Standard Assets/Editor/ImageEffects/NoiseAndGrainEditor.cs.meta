@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32321973c7584c64bce7b5d100b4732f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Editor/ImageEffects/NoiseAndGrainEditor.cs
+  uploadId: 375181

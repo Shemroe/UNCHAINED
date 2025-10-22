@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 732ab43a4e1b41a0a3e6ad346a50674d
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader
+  uploadId: 375181

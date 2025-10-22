@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 32a7888f732e4c5eb3d494ab7862a9e8
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader
+  uploadId: 375181

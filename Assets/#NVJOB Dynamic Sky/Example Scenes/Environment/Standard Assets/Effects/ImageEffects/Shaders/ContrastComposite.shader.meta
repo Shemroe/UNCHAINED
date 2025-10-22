@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 05d9d997b0bc4c2c8c9f5d8774ad2c8f
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader
+  uploadId: 375181

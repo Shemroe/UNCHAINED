@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9b05f0155d5e4d0ea8f27f8742ffc7ef
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Editor/ImageEffects/BloomEditor.cs
+  uploadId: 375181

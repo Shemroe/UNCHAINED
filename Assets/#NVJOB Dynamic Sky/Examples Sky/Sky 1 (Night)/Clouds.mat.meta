@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8ec02bdf612941ae9ee42663af75a4ad
+timeCreated: 1511476281
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Examples Sky/Sky 1 (Night)/Clouds.mat
+  uploadId: 375181

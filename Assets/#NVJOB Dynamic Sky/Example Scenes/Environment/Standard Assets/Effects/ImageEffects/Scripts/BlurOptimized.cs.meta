@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 35614e8b5f1f49c6beef89d5c15bc1c7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blurShader: {fileID: 4800000, guid: c6c4cfbf89f84c909beaa32a12f0260d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs
+  uploadId: 375181

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6e6fa083dd694407b5ffd8ad2372e2a7
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/frag_ao.cginc
+  uploadId: 375181

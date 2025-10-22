@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 24fc17ca271d4c64a95089e14f1c2d38
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader
+  uploadId: 375181

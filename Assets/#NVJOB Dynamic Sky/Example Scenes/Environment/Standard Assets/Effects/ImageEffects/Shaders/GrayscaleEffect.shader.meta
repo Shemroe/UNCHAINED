@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a366fa64adc64d5587f455a30e5ac44d
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader
+  uploadId: 375181

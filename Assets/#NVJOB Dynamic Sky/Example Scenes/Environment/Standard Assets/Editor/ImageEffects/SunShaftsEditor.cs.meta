@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 266edbda2918437b835f0f71e9789b8f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Editor/ImageEffects/SunShaftsEditor.cs
+  uploadId: 375181

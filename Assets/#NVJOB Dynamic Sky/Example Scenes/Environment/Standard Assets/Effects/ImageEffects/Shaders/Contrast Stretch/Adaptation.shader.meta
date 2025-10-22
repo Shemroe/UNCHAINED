@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5d6a025d1ccc43578cbd200b298bf846
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/Contrast
+    Stretch/Adaptation.shader
+  uploadId: 375181

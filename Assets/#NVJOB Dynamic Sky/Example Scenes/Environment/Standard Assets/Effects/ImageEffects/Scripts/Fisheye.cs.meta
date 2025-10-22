@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4e90a7cd4c324166b64e68dc362f2e49
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fishEyeShader: {fileID: 4800000, guid: 8b43ee8485344df7a0c71bfa715acfff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs
+  uploadId: 375181

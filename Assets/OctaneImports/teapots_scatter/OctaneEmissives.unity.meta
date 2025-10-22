@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edc942bc90cb70044893badceaca7a4e
+timeCreated: 1505130758
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 96589
+  packageName: Emissive Materials Demo with OctaneRender for Unity
+  packageVersion: 1.1
+  assetPath: Assets/OctaneImports/teapots_scatter/OctaneEmissives.unity
+  uploadId: 316592

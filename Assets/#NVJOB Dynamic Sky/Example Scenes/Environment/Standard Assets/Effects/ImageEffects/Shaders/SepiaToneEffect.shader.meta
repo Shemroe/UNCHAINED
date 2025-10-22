@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6a6868d5c57e4c54b8590d5a1dcc79ec
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader
+  uploadId: 375181

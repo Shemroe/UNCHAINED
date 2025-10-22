@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 8e10a3c89df3441ba2d4c36e16f61aa7
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader
+  uploadId: 375181

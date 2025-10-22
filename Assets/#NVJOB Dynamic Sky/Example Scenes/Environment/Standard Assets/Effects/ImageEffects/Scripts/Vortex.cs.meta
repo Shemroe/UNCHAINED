@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 996832713ddd401a9db0134497d9b357
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shader: {fileID: 4800000, guid: 24fc17ca271d4c64a95089e14f1c2d38, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs
+  uploadId: 375181

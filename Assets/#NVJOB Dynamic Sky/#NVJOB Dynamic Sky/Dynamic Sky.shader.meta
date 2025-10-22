@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 184593afc3724ae8a3125b378c12e085
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/#NVJOB Dynamic Sky/Dynamic Sky.shader
+  uploadId: 375181

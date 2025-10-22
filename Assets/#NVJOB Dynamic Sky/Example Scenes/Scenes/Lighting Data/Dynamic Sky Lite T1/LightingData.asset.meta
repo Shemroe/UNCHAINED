@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14de8d4466b949739ad45fd6d746283c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Scenes/Lighting Data/Dynamic
+    Sky Lite T1/LightingData.asset
+  uploadId: 375181

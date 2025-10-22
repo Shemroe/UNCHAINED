@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0c6fe516418340778a43709d31f2f85f
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader
+  uploadId: 375181

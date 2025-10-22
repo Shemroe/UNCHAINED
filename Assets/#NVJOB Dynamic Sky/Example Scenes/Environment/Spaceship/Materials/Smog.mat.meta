@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 154e272aeaf6474b94a8feb864352304
+timeCreated: 1441747292
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Spaceship/Materials/Smog.mat
+  uploadId: 375181

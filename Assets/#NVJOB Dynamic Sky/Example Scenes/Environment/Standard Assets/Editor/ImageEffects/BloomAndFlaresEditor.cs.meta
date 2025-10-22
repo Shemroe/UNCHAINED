@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a1e061ffdb14bf98f0087c00e5dd623
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Editor/ImageEffects/BloomAndFlaresEditor.cs
+  uploadId: 375181

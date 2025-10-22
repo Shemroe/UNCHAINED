@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e7369dc5a9914e37ac1c50cf585d7857
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152747
+  packageName: '#NVJOB Dynamic Sky'
+  packageVersion: 2.5.1
+  assetPath: Assets/#NVJOB Dynamic Sky/Example Scenes/Environment/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader
+  uploadId: 375181
